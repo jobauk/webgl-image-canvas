@@ -1,0 +1,14 @@
+{
+	"name": "webgl-image-canvas",
+	"type": "module",
+	"exports": {
+		".": "./lib/editor.ts"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "2.2.3",
+		"@types/bun": "latest"
+	},
+	"peerDependencies": {
+		"typescript": "^5"
+	}
+}

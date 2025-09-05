@@ -1,0 +1,10 @@
+{
+	"name": "image-editor",
+	"private": true,
+	"scripts": {
+		"dev": "bun --filter playground dev"
+	},
+	"workspaces": [
+		"packages/*"
+	]
+}
